@@ -1,6 +1,6 @@
-Senior Full Stack Developer specializing in MERN, MEAN, and React Native. I focus on building reliable web and mobile apps that perform well across devices. My expertise extends to AI and Machine Learning, including predictive analytics, NLP, and AI chatbots. I am currently deepening my knowledge in cloud computing and serverless architecture. Always learning new technologies, I aim to deliver maintainable, scalable, and high-performing code. 🚀 Open to collaborating on challenging projects that combine software development with smart, data-driven features. Let’s build something impactful! 💻🔍
+Senior Full Stack Developer specializing in MERN, MEAN, and React Native. 💻 I focus on building reliable web and mobile apps that perform well across devices. 📱 My expertise includes AI and Machine Learning: predictive analytics, NLP, and AI chatbots. 
 
-
+🤖 I am currently deepening my knowledge in cloud computing and serverless architecture ☁️. Always learning new technologies, I aim to deliver maintainable, scalable, and high-performing code. 🚀 Open to collaborating on challenging projects that combine software development with smart, data-driven features. Let’s build something impactful! 
   
 **Languages and Tools:**
 
